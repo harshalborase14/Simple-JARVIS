@@ -3,6 +3,7 @@
 🔊 Jarvis - Your Personal AI Voice Assistant
 Jarvis is an advanced AI-powered voice assistant built using Python, designed to perform a wide range of tasks through simple voice commands. Inspired by the fictional J.A.R.V.I.S. from Iron Man, this assistant can recognize speech, respond with a human-like voice, control applications, perform web searches, remember user preferences, and even generate intelligent responses using offline AI models like Ollama (Mistral, Nous-Hermes).
 
+
 🚀 Features :-
 
 🗣️ Voice Interaction – Understands your voice and responds naturally using pyttsx3.
@@ -24,6 +25,7 @@ Jarvis is an advanced AI-powered voice assistant built using Python, designed to
 🌗 Greeting by Time – Gives time-based greetings and knows your name.
 
 🌐 Multilingual Ready – Future support for Hindi, Marathi, etc.
+
 
 🧰 Tech Stack:-
 
