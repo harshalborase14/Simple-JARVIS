@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+ollama
+pywhatkit
+pyautogui
+psutil
+requests
+pyfiglet
+gTTS
+playsound
